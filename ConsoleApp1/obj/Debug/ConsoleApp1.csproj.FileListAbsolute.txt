@@ -1,0 +1,7 @@
+C:\Users\bomfi\OneDrive\Documentos\listas poo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\bomfi\OneDrive\Documentos\listas poo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\bomfi\OneDrive\Documentos\listas poo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\bomfi\OneDrive\Documentos\listas poo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\bomfi\OneDrive\Documentos\listas poo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\bomfi\OneDrive\Documentos\listas poo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\bomfi\OneDrive\Documentos\listas poo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
